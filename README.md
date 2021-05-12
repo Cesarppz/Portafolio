@@ -7,7 +7,7 @@ In this folder I will upload my portfolio projects. I hope you enjoy it 😁
 <ul>
     <li>Data Analysis:</li>
     <ul>
-        <li[>Titanic Dataset][Titanic_dataset]</li>
+        <li>[Titanic Dataset][Titanic_dataset]</li>
     </ul>
 </ul>
 
