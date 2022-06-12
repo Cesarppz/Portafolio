@@ -18,6 +18,12 @@ In this folder I will upload my portfolio projects. I hope you enjoy it 😁
         <li>
             <a href = https://github.com/Cesarppz/Portafolio/blob/master/scrapping_p12_limpio.ipynb >Scraper Pagina 12 📃</a>
         </li>
+    </ul><br>
+    <li>ETL</li>
+    <ul>
+        <li>
+            <a href = https://github.com/Cesarppz/Portafolio/blob/master/scrapping_p12_limpio.ipynb >Scraper Pagina 12 📃</a>
+        </li>
     </ul>
 </ul>
 
