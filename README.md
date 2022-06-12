@@ -22,7 +22,7 @@ In this folder I will upload my portfolio projects. I hope you enjoy it 😁
     <li>ETL</li>
     <ul>
         <li>
-            <a href = https://github.com/Cesarppz/Portafolio/blob/master/scrapping_p12_limpio.ipynb >Scraper Pagina 12 📃</a>
+            <a href = https://github.com/Cesarppz/Portafolio/tree/master/cinema_madrid >Cinema Madrid 🎥</a>
         </li>
     </ul>
 </ul>
