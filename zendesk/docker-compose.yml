@@ -1,0 +1,26 @@
+version : '2'
+services:
+  postgres:
+    image: postgres:14.3-alpine
+    ports:
+      - '5436:5432'
+    container_name: DataBase
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    volumes: 
+      - /home/cesarppz/Documents/zendesk/postgres_data/data/:/var/lib/postgresql/data/
+
+
+  python:
+    container_name: App
+    image: zendesk_app
+
+    environment:
+      TOKEN: ${TOKEN}
+      USER_ZENDESK: ${USER_ZENDESK}
+      AGENT_ID: ${AGENT_ID}
+      BASE_URL: ${BASE_URL}
+
+    network_mode: host
+
