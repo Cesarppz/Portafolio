@@ -1,6 +1,6 @@
 # Portafolio
 
-In this folder I will upload my portfolio projects. I hope you enjoy it 😁
+In this folder I will upload my portfolio projects. I hope you enjoy it 
 
 <br />
 
